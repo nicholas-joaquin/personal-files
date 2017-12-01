@@ -1,0 +1,17 @@
+{
+  "entity": {
+    "status": "ACTIVE",
+    "createdBy": "njoaquin",
+    "updatedBy": "njoaquin",
+    "createTime": 1507576535,
+    "updateTime": 1507576535,
+    "version": 1,
+    "typeName": "hbase_process",
+    "attributes": {
+     "name": "test_link_correct",
+      "qualifiedName": "test@test",
+      "inputs":[{"guid":"9a7b38d7-419b-4317-b774-471a7e32607b","typeName":"hbase_table"}],
+      "outputs":[{"guid":"50cdd410-60a9-46c0-a3b4-3a944884c083","typeName":"hbase_table"}]
+    }
+  }
+}
